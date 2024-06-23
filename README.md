@@ -136,7 +136,12 @@ cd coral/dev_scripts
 ### Example Code
 
 ```shell
-Rscript seurat_umap_tsne_coral.R --path AmBD_2vsAmBD_3vsAmBD_4_tSNE.csv --cluster AmBD_2vsAmBD_3vsAmBD_4_cluster.csv --name file --projection tsne --sample coral_args --outdir ./
+Rscript seurat_umap_tsne_coral.R --path AmBD_2vsAmBD_3vsAmBD_4_tSNE.csv
+--cluster AmBD_2vsAmBD_3vsAmBD_4_cluster.csv
+--name file
+--projection tsne
+--sample coral_args
+--outdir ./
 ```
 
 ### R Requirements
