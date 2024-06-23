@@ -133,6 +133,12 @@ git clone https://github.com/coral-seu/coral.git
 cd coral/dev_scripts
 ```
 
+### Example Code
+
+```shell
+Rscript seurat_umap_tsne_coral.R --path AmBD_2vsAmBD_3vsAmBD_4_tSNE.csv --cluster AmBD_2vsAmBD_3vsAmBD_4_cluster.csv --name file --projection tsne --sample coral_args --outdir ./
+```
+
 ### R Requirements
 
 Before running this script, you must ensure that your R environment is version 4.1.3. Additionally, in order to successfully execute the R script, you need to install the following listed dependent packages. These dependencies contain the necessary functions and features required for the script to run.
