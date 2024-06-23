@@ -1,5 +1,4 @@
 # coral
-## Getting Started
 
 ## User‘s Guide
 
@@ -159,5 +158,9 @@ ggtext
 3. The `outdir` parameter corresponds to the directory path where the output files will be saved. This enables users to define a specific folder where all the generated output will be stored, facilitating easy access and management of the results.
 
 ### Example output results
+![coral_args_Cluster_tSNE_1](https://github.com/coral-seu/coral/assets/172483957/cf0a934e-431c-4886-ab4f-c2dd22df4de8)
+![coral_args_Cluster_tSNE_2](https://github.com/coral-seu/coral/assets/172483957/f00b0885-cbba-4417-8837-7f338c2c6c31)
+![coral_args_Cluster_tSNE_3](https://github.com/coral-seu/coral/assets/172483957/6a631a36-f006-4272-a785-40d7dd99fba6)
+![coral_args_Cluster_tSNE_4](https://github.com/coral-seu/coral/assets/172483957/16b6cc8c-2561-4939-80a4-4b4319df975a)
 
 There are four different types of output results available for users to choose from, including color text, black-and-white text, text with no border, or text annotation disabled for clustering results.
